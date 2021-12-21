@@ -1,0 +1,13 @@
+h1{
+    font-size: 100px;
+    float: left;
+    font-family: 'Brush Script MT', cursive;
+}
+
+.center{
+    background-color: white ;
+    padding: 50px;
+    margin: auto;
+    width: 50%;
+    border: 15px solid black;
+}
